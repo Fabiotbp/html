@@ -1,0 +1,25 @@
+/* # é para ID */
+/* . é para classe */
+
+
+h2{
+    color: red;
+}
+
+.tag-h2{
+    color:red;
+}
+
+#segunda-tag{
+    color:blue;
+}
+
+.input-label, .input-form{
+    display: block;
+    margin-bottom: 5px;    
+}
+
+/*.input-form{
+    display: block;
+    margin-bottom: 5px;
+}*/
